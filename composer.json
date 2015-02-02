@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Efabrikov\\Help": "src/"
+            "Cms\\Help": "src/"
         }
     }
 }
