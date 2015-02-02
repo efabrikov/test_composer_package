@@ -1,15 +1,15 @@
 <?php
-namespace efabrikov\help;
+namespace Efabrikov\Help;
 
 /**
  * Description of CMS
  *
  * @author Eugene Fabrikov <eugene.fabrikov@gmail.com>
  */
-class Test
+class Ttest
 {
     public static function test()
     {
-        echo 'my package work!<br>';
+        return 'my package work!<br>';
     }
 }
