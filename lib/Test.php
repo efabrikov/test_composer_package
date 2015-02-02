@@ -6,7 +6,7 @@ namespace efabrikov;
  *
  * @author Eugene Fabrikov <eugene.fabrikov@gmail.com>
  */
-class newPHPClass
+class Test
 {
     public static function test()
     {
