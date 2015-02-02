@@ -1,5 +1,5 @@
 <?php
-namespace cms;
+namespace CMS;
 /**
  * Description of Test
  *
