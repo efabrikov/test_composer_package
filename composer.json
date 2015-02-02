@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-0": {            
-            "Dir1\\Dir2": "src/"
+            "Dir1": "src/"
         }
     },
     "minimum-stability": "stable"
