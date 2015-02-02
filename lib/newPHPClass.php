@@ -1,4 +1,5 @@
 <?php
+namespace efabrikov;
 
 /**
  * Description of newPHPClass
@@ -7,5 +8,8 @@
  */
 class newPHPClass
 {
-    //put your code here
+    public static function test()
+    {
+        echo 'my package work!<br>';
+    }
 }
