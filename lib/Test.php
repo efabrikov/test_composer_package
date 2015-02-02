@@ -1,5 +1,5 @@
 <?php
-namespace CMS;
+namespace lib;
 
 /**
  * Description of CMS

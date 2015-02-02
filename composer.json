@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-0": {
-            "CMS": "lib/"
+            "lib": "lib/"
         }
     }
 }
