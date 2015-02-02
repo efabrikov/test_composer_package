@@ -1,5 +1,5 @@
 <?php
-namespace Dir1\Dir2;
+namespace efabrikov\cms;
 /**
  * Description of Test
  *
