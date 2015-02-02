@@ -1,5 +1,5 @@
 <?php
-namespace lib;
+namespace efabrikov\help;
 
 /**
  * Description of CMS
