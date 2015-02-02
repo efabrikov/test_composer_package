@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-0": {            
-            "Lib": "Lib/"
+            "VeryLongLib": "VeryLongLib/"
         }
     },
     "minimum-stability": "stable"
