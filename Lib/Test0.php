@@ -1,5 +1,5 @@
 <?php
-namespace src;
+namespace Lib;
 /**
  * Description of Test1
  *
