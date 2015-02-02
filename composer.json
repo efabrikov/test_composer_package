@@ -18,7 +18,8 @@
     },
     "autoload": {
         "psr-0": {
-            "Novanova\\Helpers": "src/"
+            "Novanova\\Helpers": "src/",
+            "cms": "src/"
         }
     },
     "minimum-stability": "stable"
