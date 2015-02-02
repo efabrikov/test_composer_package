@@ -1,8 +1,8 @@
 <?php
-namespace efabrikov;
+namespace CMS;
 
 /**
- * Description of newPHPClass
+ * Description of CMS
  *
  * @author Eugene Fabrikov <eugene.fabrikov@gmail.com>
  */
